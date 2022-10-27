@@ -1,0 +1,36 @@
+* {
+    background-color: #f8526f;
+    color: white;
+}
+.container {
+    margin-top: 45vh;
+}
+
+h1 {
+    text-align: center;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.btn {
+    padding: 10px 40px;
+    border-style: solid;
+    border-color: white;
+}
+
+.btn:hover {
+    background-color: white;
+    color: #f8526f;
+}
+
+.yesContainer {
+    margin-top: 45vh;
+    align-items: center;
+    display: none;
+}
+
+.yesContainer p {
+    text-align: center;
+}
